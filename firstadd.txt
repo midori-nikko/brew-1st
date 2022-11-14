@@ -1,0 +1,1 @@
+Make first text file for commit & push by GitHub command.
